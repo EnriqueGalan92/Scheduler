@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at Scheduler.v(99): always construct contains both blocking and non-blocking assignments File: C:/Altera/00_Scheduler/Scheduler.v Line: 99
